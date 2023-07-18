@@ -1,0 +1,15 @@
+E:\Projects\VSTO\Test1\Test1\bin\Debug\Test1.dll
+E:\Projects\VSTO\Test1\Test1\bin\Debug\Test1.pdb
+E:\Projects\VSTO\Test1\Test1\bin\Debug\Test1.xml
+E:\Projects\VSTO\Test1\Test1\bin\Debug\Test1.dll.manifest
+E:\Projects\VSTO\Test1\Test1\bin\Debug\Test1.vsto
+E:\Projects\VSTO\Test1\Test1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\Projects\VSTO\Test1\Test1\obj\Debug\Test1.vbproj.AssemblyReference.cache
+E:\Projects\VSTO\Test1\Test1\obj\Debug\Test1.Resources.resources
+E:\Projects\VSTO\Test1\Test1\obj\Debug\Test1.vbproj.GenerateResource.cache
+E:\Projects\VSTO\Test1\Test1\obj\Debug\Test1.vbproj.CoreCompileInputs.cache
+E:\Projects\VSTO\Test1\Test1\obj\Debug\Test1.vbproj.CopyComplete
+E:\Projects\VSTO\Test1\Test1\obj\Debug\Test1.dll
+E:\Projects\VSTO\Test1\Test1\obj\Debug\Test1.xml
+E:\Projects\VSTO\Test1\Test1\obj\Debug\Test1.pdb
+E:\Projects\VSTO\Test1\Test1\obj\Debug\Test1.Ribbon1.resources
