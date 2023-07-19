@@ -10,8 +10,7 @@ Module Module1
             Dim Wb As Workbook = Globals.ThisAddIn.Application.ActiveWorkbook
             Dim Ws As Worksheet = Wb.ActiveSheet
             Dim Range1 As Range = Ws.Range($"A1:Z{Num}")
-            Dim i As Integer = 0
-            Dim RND As New Random(255)
+            Dim RND As New Random()
             For Each One As Range In Range1.Cells
                 One.Interior.Color = RGB(RND.Next Mod 255, RND.Next Mod 255, RND.Next Mod 255)
             Next
